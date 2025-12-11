@@ -19,7 +19,7 @@ public:
         cout << name << ": " << quantity << " pcs, $" << price << endl;
     }
 };
-
+ 
 int main() {
     Item item1("Laptop", 10, 1500);
     Item item2("Phone", 20, 700);
